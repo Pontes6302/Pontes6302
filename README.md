@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sivio</h1>
+<h1 align="center">Hi 👋, I'm Sivio!</h1>
 <h3 align="center">A new lerner sudent in progamming from Portugal.</h3>
 
 - 🌱 I’m currently learning **C.**
