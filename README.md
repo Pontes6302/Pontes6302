@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pontes6302</h1>
+<h1 align="center">Hi 👋, I'm Sívio!</h1>
 <h3 align="center">A passioante student in progamming from Portugal.</h3>
 
 - 📫 How to reach me **siviojoaofreitaspontes@gmail.com**
